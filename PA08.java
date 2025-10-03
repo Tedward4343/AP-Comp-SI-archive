@@ -1,4 +1,9 @@
-
+/*
+Name: Teddy Miller
+Block: B
+Program: PA08
+Date: 8/27/2025
+*/
 import java.util.*;
 
 public class PA08 {
@@ -34,3 +39,4 @@ public class PA08 {
 	}
 
 }
+
