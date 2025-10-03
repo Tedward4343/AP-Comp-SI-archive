@@ -1,4 +1,9 @@
-
+/*
+Name: Teddy Miller
+Block: B
+Program: PA03
+Date: 8/26/2025
+*/
 	
 	import java.util.*; 
 	
@@ -14,3 +19,4 @@
 			System.out.println (Result);
 		}
 	}
+
