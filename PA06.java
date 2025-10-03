@@ -1,3 +1,10 @@
+/*
+Name: Teddy Miller
+Block: B
+Program: PA06
+Date: 8/27/2025
+*/
+
 import java.util.*;
 
 public class PA06 {
@@ -39,3 +46,4 @@ public class PA06 {
 				
 	}
 	}
+
